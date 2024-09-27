@@ -1,0 +1,10 @@
+.thumbnail{
+    width: 400px;
+    border-radius: 10px;
+    display: block;
+}
+input{
+    
+    display: block;
+    margin-bottom: 10px;
+}
